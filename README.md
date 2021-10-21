@@ -13,3 +13,11 @@ data (audioMNIST)
 
 * There is one directory per speaker holding the audio recordings.
 Additionally "audioMNIST_meta.txt" provides meta information such as gender or age of each speaker.
+
+<br>
+<br>
+
+<h2><b><u>FILES IN THIS PROJECT</u></b></h2>
+<br>
+
+*<b><u>MNIST AUDIO PREPROCESSING.ipnb</u></b>
