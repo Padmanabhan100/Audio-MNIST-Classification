@@ -29,7 +29,7 @@ Additionally "audioMNIST_meta.txt" provides meta information such as gender or a
 
 * This Notebook contains the reading,data preprocessing,feature engineering and splitting data.
 
-* In this project the features were extracted/constructed by uisng <b>Mel-Frequency Cepstral Coefficient</b> 
+* In this project the features were extracted/constructed by using <b>Mel-Frequency Cepstral Coefficient</b> 
 
 ![imgg](https://user-images.githubusercontent.com/73405735/138358451-ebbcc28f-e1c8-4ca9-89c2-d36eba2984f2.png)
 
