@@ -3,7 +3,7 @@
 <br>
 <br>
 
-<h3><b>ABOUT DATA</b></h3>
+<h2><b><u>DATA - </u></b></h2>
 <br>
 A Large dataset of Audio MNIST, 30000 audio samples of spoken digits (0-9) of 60 different speakers.
 <br>
