@@ -26,8 +26,8 @@ Additionally "audioMNIST_meta.txt" provides meta information such as gender or a
 <b>1. <u>MNIST AUDIO PREPROCESSING.ipnb</u></b> -- 
 <br>
 <br>
-*This Notebook contains the reading,data preprocessing,feature engineering and splitting data.
-*In this project the features were extracted/constructed by uisng <b>Mel-Frequency Cepstral Coefficient</b> 
+* This Notebook contains the reading,data preprocessing,feature engineering and splitting data.
+* In this project the features were extracted/constructed by uisng <b>Mel-Frequency Cepstral Coefficient</b> 
 
 ![imgg](https://user-images.githubusercontent.com/73405735/138358451-ebbcc28f-e1c8-4ca9-89c2-d36eba2984f2.png)
 
@@ -35,5 +35,5 @@ Additionally "audioMNIST_meta.txt" provides meta information such as gender or a
 <b>2.<u>MNIST CLASSIFICATION MODELLING.ipynb</u></b> -- 
 <br>
 <br>
-*This Notebook contains the modelling part using keras.
-*I have used dense neural network for training and prediction.
+* This Notebook contains the modelling part using keras.
+* I have used dense neural network for training and prediction.
